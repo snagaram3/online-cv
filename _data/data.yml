@@ -86,11 +86,11 @@ experiences:
           
           Technical Expertise:
             
-             Tech Stack: Terraform for infrastructure, Kubernetes for container orchestration, Python/Shell for automation.
+            • Tech Stack: Terraform for infrastructure, Kubernetes for container orchestration, Python/Shell for automation.
             
-             Infrastructure Security: Maintained security scores of multiple AWS accounts, introduced automation for anomaly tag identification, and updates via Python automations.
+            • Infrastructure Security: Maintained security scores of multiple AWS accounts, introduced automation for anomaly tag identification, and updates via Python automations.
             
-             Right-sized services in Kubernetes via signal pod load testing, securing optimal CPU, memory, and latency at maximum performance.
+            • Right-sized services in Kubernetes via signal pod load testing, securing optimal CPU, memory, and latency at maximum performance.
       - role: Sr. DevOps/CloudOps Engineer
         time: 10/2021 - 05/2022
         company: Nomi Health, Austin TX
@@ -99,21 +99,21 @@ experiences:
           
           Key Contributions:
             
-             Led and provided directions to the team members to meet project deadline.
+            • Led and provided directions to the team members to meet project deadline.
             
-             Developed custom reusable Terraform modules and that brought down the projects turnaround times by 50%.
+            • Developed custom reusable Terraform modules and that brought down the projects turnaround times by 50%.
             
-             Implemented confluent integrations with infrastructure planned agile best practices and encouraged team cohesion, overcoming impediments and hurdles to productivity.
+            • Implemented confluent integrations with infrastructure planned agile best practices and encouraged team cohesion, overcoming impediments and hurdles to productivity.
             
-             Design and implement AWS well architected – build secure, efficient cloud application.
+            • Design and implement AWS well architected – build secure, efficient cloud application.
             
-             Create and maintain build/deployment pipelines, managing the codebase for Infrastructure As Code using Terraform.
+            • Create and maintain build/deployment pipelines, managing the codebase for Infrastructure As Code using Terraform.
             
-             Install and configure SonarQube on Kubernetes, alongside other services like Episode6 for payments.
+            • Install and configure SonarQube on Kubernetes, alongside other services like Episode6 for payments.
             
-             Made high-impact contributions to extensive documentation and development of a modular Terraform codebase, expediting processes.
+            • Made high-impact contributions to extensive documentation and development of a modular Terraform codebase, expediting processes.
             
-             Played a key role in serverless projects using Lambda, SNS, SQS, S3, and API Gateway.
+            • Played a key role in serverless projects using Lambda, SNS, SQS, S3, and API Gateway.
       - role: Sr. DevOps Engineer
         time: 07/2021 - 11/2021
         company: W Energy Software
@@ -122,11 +122,11 @@ experiences:
           
           Key Responsibilities:
             
-             Deploy, automate and manage client systems on AWS infrastructure, guarantying zero downtime.
+            • Deploy, automate and manage client systems on AWS infrastructure, guarantying zero downtime.
             
-             Provide reactive support through trouble shooting of technical issues, unblocking users and detecting root cause analysis RCA.
+            • Provide reactive support through trouble shooting of technical issues, unblocking users and detecting root cause analysis RCA.
             
-             Modularized the existing infrastructure, leveraging Terraform for improved efficiency.
+            • Modularized the existing infrastructure, leveraging Terraform for improved efficiency.
             
              Successfully integrated CI/CD into the process, paving the way for discussions on containerizing existing applications.
       - role: DevOps IV Engineer
@@ -137,19 +137,19 @@ experiences:
           
           Key Contributions:
             
-             Led the design, setup, and management of Kubernetes CI/CD/CO production environments.
+            • Led the design, setup, and management of Kubernetes CI/CD/CO production environments.
             
-             Provided exceptional support for multiple Enterprise releases for over 200 applications/services.
+            • Provided exceptional support for multiple Enterprise releases for over 200 applications/services.
             
-             Achieved overall better performance of infrastructure by conducting Java application profiling and load tests for Verizon's Iconic Apple launch.
+            • Achieved overall better performance of infrastructure by conducting Java application profiling and load tests for Verizon's Iconic Apple launch.
             
-             Configured multiple Kafka Clusters hosted on ConfluentCloud with Snowflake/Lambda sink connectors for integration.
+            • Configured multiple Kafka Clusters hosted on ConfluentCloud with Snowflake/Lambda sink connectors for integration.
             
-             Led the team in conducting load tests on the production environment, collected metrics at its maximum performance, analyzed the results, and archived the findings.
+            • Led the team in conducting load tests on the production environment, collected metrics at its maximum performance, analyzed the results, and archived the findings.
             
-             Spearheaded cost savings and maintained competitiveness by continually tweaking infrastructure limits based on load test results.
+            • Spearheaded cost savings and maintained competitiveness by continually tweaking infrastructure limits based on load test results.
             
-             Drove cloud migration and upgrades, from version 1.16 to 1.24, previously installing Kubernetes the traditional way (on-premises).
+            • Drove cloud migration and upgrades, from version 1.16 to 1.24, previously installing Kubernetes the traditional way (on-premises).
       - role: DevOps Engineer
         time: 10/2017 - 03/2019
         company: Citigroup, Irving, Texas
@@ -158,17 +158,17 @@ experiences:
           
           Key Responsibilities
             
-             Conducted infrastructure planning and reviews of POC for different accounts within Citigroup, emphasizing hybrid cloud IAAS provisioning.
+            • Conducted infrastructure planning and reviews of POC for different accounts within Citigroup, emphasizing hybrid cloud IAAS provisioning.
             
-             Configured RHEL 6/7 system in large scale vCenter VMs and on the cloud.
+            • Configured RHEL 6/7 system in large scale vCenter VMs and on the cloud.
             
-             Completed multiple POCs on AWS, GCP, and Azure, including installing a legacy Kubernetes on bare-metal servers and validating workload management.
+            • Completed multiple POCs on AWS, GCP, and Azure, including installing a legacy Kubernetes on bare-metal servers and validating workload management.
             
-             Instituted an effective workflow by collecting internal client requirements via a ServiceNow form and incorporating values into CFT Cloud Formation templates for infrastructure provisioning.
+            • Instituted an effective workflow by collecting internal client requirements via a ServiceNow form and incorporating values into CFT Cloud Formation templates for infrastructure provisioning.
             
-             Optimized legacy VMware technology for systems engineering and installation of server-level software packages to provide solutions.
+            • Optimized legacy VMware technology for systems engineering and installation of server-level software packages to provide solutions.
             
-             Authored automation scripts for data manipulation and report generation on clients/costs.
+            • Authored automation scripts for data manipulation and report generation on clients/costs.
       - role: Operations Specialist/Security and Risk Management Professional
         time: 02/2013 - 08/2015
         company: IBM, India
