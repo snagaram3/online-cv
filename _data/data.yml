@@ -1,4 +1,4 @@
-##
+#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -8,27 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Srihari Nagaram
+    tagline: Sr. Platform Cloud Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: srihari.ec09@gmail.com
+    phone: 219-318-5594
+    timezone: CST
+    citizenship: US Citizen
+    website: snagaram3.github.io/online-cv #do not add http://
+    linkedin: srihari-nagaram
+    github: snagaram3
+    pdf: https://myresume-snagaram.s3.amazonaws.com/Srihari_Nagaram_Resume_March_2024.pdf
 
     languages:
       title: Languages
@@ -36,19 +28,16 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Morning Walks
           link:
 
-        - item: Snowboarding
+        - item: Racket games
           link:
 
         - item: Cooking
@@ -57,119 +46,173 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Over 10+ years of DevOps Engineer experience and a cloud first approach to solving critical business issues using cutting edge tools and automation, in positions as Senior Platform Engineer & Team Lead. Work with products’ SDLC for high-profile companies such as Verizon, Sysco Labs, and Citigroup, utilizing innovative solutions.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: Purdue University
+        time: 2015 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          .
+      - degree: BE in Electronics and Communications
+        university: East Point College of Engineering and Technology
+        time: 2009 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          .
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Sr. Platform /Software Engineer
+        time: 05/2022 - Present
+        company: Sysco Labs, Austin TX
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          As a seasoned Senior Platform Engineer I manage Sysco corporation DevOps operations by implementing tools and processes, providing a platform that has flawless integration, efficient scaling, and highly reliable continuous delivery. I research and evaluate new initiatives/cloud native tools to simplify the development process and implement advanced methods for increased efficiency. Demonstrating a deep commitment to seamless operation of platforms and staying updated with the latest technologies.
+          
+          Key Contributions:
+            
+            • Design and implement Microservices architecture with Kubernetes on AWS (EKS), Docker and Helm and upgrading the clusters versions.
+            
+            • Applied canary deployments with Linkerd, Argo rollout and Argo Workflows.
+            
+            • Integrated Vault dynamic credentials with ephemeral token(short lived) for production databases. This decreased turnaround time by 90%, from the previous unsecure and long manual process.
+            
+            • Develop reusable components and operational strategies to support applications and cloud infrastructure including scalability, high availability, performance, monitoring, backup, restoring etc.
+            
+            • Right sizing the applications using cloud native solutions like Goldilocks and by conducting continuous testing (single pod testing) to obtain optimal resource thresholds at their peak performance, resulting in cost savings up to 50% reduction in node count.
+            
+            • Kept shop.sysco.com with an impressive uptime of 99.8%, minimizing downtime.
+          
+          Technical Expertise:
+            
+             Tech Stack: Terraform for infrastructure, Kubernetes for container orchestration, Python/Shell for automation.
+            
+             Infrastructure Security: Maintained security scores of multiple AWS accounts, introduced automation for anomaly tag identification, and updates via Python automations.
+            
+             Right-sized services in Kubernetes via signal pod load testing, securing optimal CPU, memory, and latency at maximum performance.
+      - role: Sr. DevOps/CloudOps Engineer
+        time: 10/2021 - 05/2022
+        company: Nomi Health, Austin TX
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          As a Senior DevOps/CloudOps Engineer, I lead a global team, conduct daily stand-up meetings, and prioritizing features to work with urgency while delivering value.
+          
+          Key Contributions:
+            
+             Led and provided directions to the team members to meet project deadline.
+            
+             Developed custom reusable Terraform modules and that brought down the projects turnaround times by 50%.
+            
+             Implemented confluent integrations with infrastructure planned agile best practices and encouraged team cohesion, overcoming impediments and hurdles to productivity.
+            
+             Design and implement AWS well architected – build secure, efficient cloud application.
+            
+             Create and maintain build/deployment pipelines, managing the codebase for Infrastructure As Code using Terraform.
+            
+             Install and configure SonarQube on Kubernetes, alongside other services like Episode6 for payments.
+            
+             Made high-impact contributions to extensive documentation and development of a modular Terraform codebase, expediting processes.
+            
+             Played a key role in serverless projects using Lambda, SNS, SQS, S3, and API Gateway.
+      - role: Sr. DevOps Engineer
+        time: 07/2021 - 11/2021
+        company: W Energy Software
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          Specialized in building, maintaining, and upgrading cloud infrastructure on AWS. Duties included providing comprehensive support for applications and databases across upstream, midstream, and downstream clients. Actively contributed to individual projects on a ticket-by-ticket basis, with a focus on Operations tasks that aligned ideally with individual client requirements.
+          
+          Key Responsibilities:
+            
+             Deploy, automate and manage client systems on AWS infrastructure, guarantying zero downtime.
+            
+             Provide reactive support through trouble shooting of technical issues, unblocking users and detecting root cause analysis RCA.
+            
+             Modularized the existing infrastructure, leveraging Terraform for improved efficiency.
+            
+             Successfully integrated CI/CD into the process, paving the way for discussions on containerizing existing applications.
+      - role: DevOps IV Engineer
+        time: 03/2019 - 07/2021
+        company: Verizon, Irving, Texas
+        details: |
+          As a Team Lead on Verizon's prestigious project NSA (North Star Architecture), I played a crucial role in designing, building, and monitoring on-premises/AWS Cloud & EKS Kubernetes clusters in the production environment. Duties included implementing cloud best practices, optimizing performance, and actively participating in load tests for iPhone releases. Brought noteworthy results through leadership and hands-on expertise right sizing Kubernetes clusters for high-profile projects.
+          
+          Key Contributions:
+            
+             Led the design, setup, and management of Kubernetes CI/CD/CO production environments.
+            
+             Provided exceptional support for multiple Enterprise releases for over 200 applications/services.
+            
+             Achieved overall better performance of infrastructure by conducting Java application profiling and load tests for Verizon's Iconic Apple launch.
+            
+             Configured multiple Kafka Clusters hosted on ConfluentCloud with Snowflake/Lambda sink connectors for integration.
+            
+             Led the team in conducting load tests on the production environment, collected metrics at its maximum performance, analyzed the results, and archived the findings.
+            
+             Spearheaded cost savings and maintained competitiveness by continually tweaking infrastructure limits based on load test results.
+            
+             Drove cloud migration and upgrades, from version 1.16 to 1.24, previously installing Kubernetes the traditional way (on-premises).
+      - role: DevOps Engineer
+        time: 10/2017 - 03/2019
+        company: Citigroup, Irving, Texas
+        details: |
+          Conducted reviews of Proof-of-Concepts for various accounts within Citigroup, focusing on Hybrid Cloud IAAS provisioning. Designed CI/CD solutions for building and releasing over 200 applications, managing bi-weekly releases and CAB approvals. Demonstrated expertise in infrastructure planning, hybrid cloud IAAS provisioning, and CI/CD solutions design, showcasing a proven ability to drive efficiency and streamline processes.
+          
+          Key Responsibilities
+            
+             Conducted infrastructure planning and reviews of POC for different accounts within Citigroup, emphasizing hybrid cloud IAAS provisioning.
+            
+             Configured RHEL 6/7 system in large scale vCenter VMs and on the cloud.
+            
+             Completed multiple POCs on AWS, GCP, and Azure, including installing a legacy Kubernetes on bare-metal servers and validating workload management.
+            
+             Instituted an effective workflow by collecting internal client requirements via a ServiceNow form and incorporating values into CFT Cloud Formation templates for infrastructure provisioning.
+            
+             Optimized legacy VMware technology for systems engineering and installation of server-level software packages to provide solutions.
+            
+             Authored automation scripts for data manipulation and report generation on clients/costs.
+      - role: Operations Specialist / Security and Risk Management Professional
+        time: 02/2013 - 08/2015
+        company: IBM, India
+        details: |
+          Conducted security assessments for clients, granted access to authorized personnel, pulled reports, and administered Active Directory (AD). Administration of RHEL servers like, package management, volume management, certificate generation.                       
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: AWS Certified Solutions Architect – Associate
+          start: 09/2021
+          end: 09/2024
+          organization: AWS
+          credentialid: SMNLGZGLMM441FKJ
+          credentialurl: https://www.credly.com/badges/469b6d33-ebb0-43a5-ab3d-3ec5e9314180/public_url
+          credentialname: CKAD
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            .      
+        - name: CKAD
+          start: 2023
+          end: 2026
+          organization: The Linux Foundation
+          credentialid: LF-74xmx8d8n1
+          credentialurl: https://www.credly.com/badges/623aa115-14e4-402a-941b-ed45aa2a9bd4/public_url
+          credentialname: CKAD
+          details: |
+            .
+        - name: Continuous Delivery and GitOps using Argo CD
+          start: 2023
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Akuity
+          credentialid: 89437312
+          credentialurl: https://www.credential.net/77c36c07-ce27-47c6-a3af-5c599bf95c47
+          credentialname: Akuity
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            .
+        - name: CCNA / Understanding of Cisco Network Devices
+          start: 2020
+          end:
+          organization: Cisco
+          credentialid: 89437312
+          credentialurl: https://www.credly.com/badges/c499eac6-eee4-4e91-a926-09f137f170e9/public_url
+          credentialname: Cisco
+          details: |
+            .            
 
 projects:
     title: Projects
@@ -198,68 +241,28 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Kubernetes
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Terraform
         level: 98%
 
-      - name: Angular
+      - name: Jenkins
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Shell Scripting
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 75%
+
+      - name: Linux
+        level: 98%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Srihari Nagaram</a>
