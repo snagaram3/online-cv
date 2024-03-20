@@ -221,25 +221,21 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Right-sizing / Optimizing Performance
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "DevOps cultivates a unified culture, driving Developers and Platform teams to optimize practices through a relentless pursuit of continuous improvement"
 
-      - title: DevStudio
+      - title: Dynamic credentials for PROD DataBase
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Implementing dynamic credentials for temporary access to production databases not just enhances security but also streamlines housekeeping efforts."
 
-      - title: Tempo
+      - title: Verizon NSA
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Designed and developed the Kubernetes platform to deliver optimized performance post multiple load/spike tests."
 
-      - title: Atom
+      - title: Stratigise Security 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Strategize security across all managed accounts by standardizing tagging, implementing AWS Well-Architected Framework recommendations, and focusing on cost optimization."
 
 
 skills:
